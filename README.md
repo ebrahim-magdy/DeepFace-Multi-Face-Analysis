@@ -5,6 +5,14 @@ A Computer Vision application built using Python, DeepFace, OpenCV, and Streamli
 
 This application detects multiple faces in an uploaded image and performs facial analysis on each detected face.
 
+## Application Screenshots
+
+### Application Interface
+![Application Interface](app_interface.jpg)
+
+### Multi-Face Analysis Results
+![Analysis Results](analysis_results.png)
+
 ## Features
 - Multi-face detection.
 - Emotion analysis.
